@@ -16,7 +16,7 @@ It includes:
 ## 📊 Features
 
 - ✅ Scrapes all Disney films from the [Wikipedia master list](https://en.wikipedia.org/wiki/List_of_Walt_Disney_Pictures_films)
-- ✅ Converts budget and box office from `$120 million` to actual USD integers
+- ✅ Converts budget and box office from `string numbers` to actual USD integers
 - ✅ Extracts and formats release dates as `datetime` objects
 - ✅ Uses [OMDb API](https://www.omdbapi.com/) to fetch:
   - IMDb rating
